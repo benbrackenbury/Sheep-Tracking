@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/config/config.h
+stdbool.h
+-
+
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/file/file.h
+stdio.h
+-
+stdbool.h
+-
+
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/main.c
+stdio.h
+-
+stdlib.h
+-
+main.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/main.h
+config/config.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/config/config.h
+file/file.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/file/file.h
+position/position.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/position/position.h
+movement/movement.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/movement/movement.h
+
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/main.h
+
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/movement/movement.h
+time.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/movement/time.h
+string.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/movement/string.h
+../position/position.h
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/position/position.h
+
+/Users/benbrackenbury/Library/Mobile Documents/com~apple~CloudDocs/Uni/CS23820 C & C++/Assignement/position/position.h
+time.h
+-
+

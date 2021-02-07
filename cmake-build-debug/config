@@ -1,0 +1,6 @@
+data_file_name "Collar_12.TXT"
+movement_duration <0 : 45.0>
+maximum_speed 30.0
+num_bars 60
+range_lon < -3.611 : -3.61 >
+range_lat < 52.0 : 52.254 >
